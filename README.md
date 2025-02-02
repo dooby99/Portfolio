@@ -1,38 +1,54 @@
-# Portfolio
-곽도영의 포트폴리오
+# 👋 곽도영 (Kwak Doyoung)
 
-# 🚀 안녕하세요! 저는 곽도영입니다.
-**클라우드/인프라 기반 데이터 엔지니어를 목표로 공부하고 있습니다.  
-다양한 프로젝트 경험을 통해 성장하고 있습니다.
+안녕하세요! 저는 **데이터 엔지니어링, 웹 개발, AI 모델링** 경험을 보유한 개발자 곽도영입니다. 
 
----
-
-## 🛠 Tech Stack  
-- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-- **Cloud & Infra:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-- **Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+## 📌 Contact
+📧 **Email:** dooby992@gmail.com  
+📌 **GitHub:** [dooby99](https://github.com/dooby99)  
+📌 **Notion Portfolio:** [링크](https://fanatical-dime-931.notion.site/KWAK-DOYOUNG-ccd2819bc4b3495c977ceafd8ac06f96?pvs=74)  
 
 ---
 
-## 🏆 주요 프로젝트  
-### 📌 [클라우드 기반 데이터 파이프라인 구축](https://github.com/your-repo)  
-- **설명:** AWS S3 + Lambda + Glue를 활용하여 데이터 ETL 파이프라인 구축  
-- **사용 기술:** Python, AWS, Spark, PostgreSQL  
-- **성과:** 데이터 처리 속도 50% 개선, 클라우드 비용 최적화  
-
-### 📌 [쿠버네티스를 활용한 PaaS 환경 구축](https://github.com/your-repo)  
-- **설명:** OpenShift 기반으로 PaaS 환경을 구축하고 애플리케이션 배포 자동화  
-- **사용 기술:** Kubernetes, OpenShift, Docker  
-- **성과:** CI/CD 자동화 구축 및 배포 시간 단축  
+## 🚀 Tech Stack
+- **Programming:** Python, Java, Kotlin, JavaScript, SQL
+- **Data Engineering:** Apache Airflow, Snowflake, Redshift, AWS Lambda, Docker, Kubernetes
+- **Web Development:** Django, Spring Boot, MySQL, JavaScript
+- **AI/ML:** Pytorch, TensorFlow, U-Net, Image Segmentation
+- **CI/CD & DevOps:** GitHub Actions, AWS EC2, S3, VPC, IAM
+- **Visualization:** Tableau, Apache Superset, Preset
 
 ---
 
-## ✍ Blog & SNS  
-📘 [Velog](https://velog.io/@your-id)  
-🐦 [LinkedIn](https://www.linkedin.com/in/your-id)  
-📧 Email: your-email@example.com  
+## 📌 Projects
+### 🇰🇷 대한민국 날씨/자연재해 대시보드 (**좋雲데이**)
+🔹 **기술 스택:** Airflow, AWS Lambda, Docker, Redshift, Tableau, Superset  
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/nice_cloud_day)
+
+### 🎭 공연 정보 데이터 파이프라인 구성 (**SHOWCHECK**)
+🔹 **기술 스택:** Airflow, Redshift, Preset  
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Performance-information-analysis)
+
+### ⛽ 국내 유가 정보 분석 대시보드 (**OIL PRICE DATA**)
+🔹 **기술 스택:** Snowflake, AWS S3, Preset  
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Oil-Price-Data)
+
+### 🐶 애완견 피부 질환 AI 진단 어플리케이션 (**댕댕픽쳐스**)
+🔹 **기술 스택:** PyTorch, TensorFlow, Kotlin, Android  
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/DogMedical)
+
+### 🏛 대구 전시회 정보 제공 웹사이트 (**BODA**)
+🔹 **기술 스택:** Spring Boot, MySQL, Java, JavaScript  
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/ExhibitionProject)
+
+### 🚴 따릉이 위치 및 꽃가루 정보 웹사이트 (**BIKE & Pollen SERVICE**)
+🔹 **기술 스택:** Django, API, JavaScript, SQLite  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical)
+## Education
+📚 **데이터 엔지니어링 데브코스** (*2024.03 - 2024.08*) - 프로그래머스(그렙)  
+📚 **웹 애플리케이션 개발자 양성과정** (*2023.04*) - 대구대학교 산학협력단  
+
+---
+
+🌟 **프로젝트에 대해 더 많은 정보는 [Notion](https://fanatical-dime-931.notion.site/KWAK-DOYOUNG-ccd2819bc4b3495c977ceafd8ac06f96?pvs=74)에서 확인하세요!**
